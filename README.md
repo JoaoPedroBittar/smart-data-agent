@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README - Painel Inteligente de Análise de Dados com IA
 
 ## Instruções de Execução
@@ -105,3 +106,7 @@ O sistema é organizado em três agentes principais:
 
 ---
 
+=======
+# smart-data-agent
+Sistema com orquestração simples de agentes de IA que interpreta comandos em linguagem natural, converte-os em SQL para um banco SQLite e apresenta insights e gráficos. Inclui agentes de interpretação, consulta e formatação, usando Ollama como LLM local e Python para integração e execução.
+>>>>>>> 644130e72556ee80f46864303fc070fe11c32311
