@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README - Painel Inteligente de Análise de Dados com IA
 
 ## Instruções de Execução
